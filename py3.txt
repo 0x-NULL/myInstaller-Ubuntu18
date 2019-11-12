@@ -1,0 +1,19 @@
+numpy
+scipy
+# matplotlib
+
+requests
+scapy
+selenium
+mechanize
+
+# pycuda
+# multiprocessing
+
+cryptography
+z3
+owasp
+
+virtualenv
+Cython
+
