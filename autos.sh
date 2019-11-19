@@ -36,6 +36,7 @@ sh auto/ghost-phisher.sh
 sh auto/gladius.sh
 #sh auto/KingPhisher.sh
 #sh auto/metagoofil.sh
+sh auto/myBFF.sh
 sh auto/nullinux.sh
 sh auto/pret.sh
 sh auto/pwngdb.sh

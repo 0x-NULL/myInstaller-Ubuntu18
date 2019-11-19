@@ -9,3 +9,5 @@ Arachni			https://www.arachni-scanner.com/download/
 NexPose			https://www.rapid7.com/try/nexpose/
 DetectItEasy		http://ntinfo.biz/index.html
 bloodhound		https://github.com/BloodHoundAD/BloodHound/releases
+exploitpack		http://exploitpack.com/download.html
+ImmunityCanvas		https://www.immunityinc.com/products/canvas/#

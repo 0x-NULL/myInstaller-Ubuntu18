@@ -16,6 +16,7 @@ EyeWitness
 nfspy
 responder
 TheHarvester
+mimikatz
 
 To fix:
 apt2.sh (uniqlite)

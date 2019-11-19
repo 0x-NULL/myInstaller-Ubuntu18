@@ -13,6 +13,7 @@ mechanize
 cryptography
 z3
 owasp
+shodan
 
 virtualenv
 Cython
