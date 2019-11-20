@@ -1,19 +1,19 @@
 numpy
 scipy
-# matplotlib
+matplotlib
 
 requests
 scapy
 selenium
 mechanize
 
-# pycuda
-# multiprocessing
+#pycuda
+#multiprocessing
 
 cryptography
-z3
+#z3
 owasp
-shodan
+#shodan
 
 virtualenv
 Cython

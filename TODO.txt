@@ -6,7 +6,6 @@ InSSIDer		https://www.metageek.com/products/inssider/
 FindDomains		https://code.google.com/archive/p/finddomains/downloads
 sslyze			https://github.com/nabla-c0d3/sslyze
 Networx			https://www.softperfect.com/download/files/networx_linux_amd64.deb
-routersploit		https://github.com/threat9/routersploit
 
 jexboss 		https://github.com/joaomatosf/jexboss
 hostapd-wpe		https://github.com/OpenSecurityResearch/hostapd-wpe
@@ -44,7 +43,6 @@ fluxion
 ghost-phisher
 king-phisher
 nullinux
-Recon-ng
 sqliv
 xsser
 xsstrike

@@ -1,6 +1,6 @@
 # https://github.com/golismero/golismero
 
-sudo apt install python2.7-dev python-docutils nmap sslscan
+sudo apt install -y nmap sslscan
 cd ~/PenTestTools/
 sudo git clone https://github.com/golismero/golismero.git
 cd golismero
