@@ -2,7 +2,7 @@
 
 sudo apt install -y nmap sslscan
 cd ~/PenTestTools/
-sudo git clone https://github.com/golismero/golismero.git
+git clone https://github.com/golismero/golismero.git
 cd golismero
 sudo pip install -r requirements.txt
 sudo pip install -r requirements_unix.txt

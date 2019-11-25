@@ -2,5 +2,5 @@
 
 git clone https://github.com/MooseDojo/apt2.git ~/PenTestTools/apt2
 sudo pip install unqlite
-sudo ln -f ~/PenTestTools/apt2/apt2.py /usr/bin/apt2
+sudo ln -s ~/PenTestTools/apt2/apt2.py /usr/bin/apt2
 

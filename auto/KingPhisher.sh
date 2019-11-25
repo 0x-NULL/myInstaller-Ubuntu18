@@ -1,6 +1,6 @@
 # https://github.com/securestate/king-phisher
 
-sudo git clone https://github.com/securestate/king-phisher.git ~/PenTestTools/KingPhisher
+git clone https://github.com/securestate/king-phisher.git ~/PenTestTools/KingPhisher
 cd ~/PenTestTools/KingPhisher/tools/
 sudo ./install.sh
 

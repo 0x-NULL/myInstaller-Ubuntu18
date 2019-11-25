@@ -1,6 +1,6 @@
 # https://github.com/beefproject/beef
 
-sudo git clone https://github.com/beefproject/beef ~/PenTestTools/beef
+git clone https://github.com/beefproject/beef ~/PenTestTools/beef
 cd ~/PenTestTools/beef
 sudo ./install
 bundle install

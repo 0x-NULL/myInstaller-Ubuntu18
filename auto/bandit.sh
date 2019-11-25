@@ -1,3 +1,3 @@
 # https://github.com/PyCQA/bandit
 
-pip3 install bandit --user
+sudo pip3 install bandit --user
