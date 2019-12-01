@@ -41,8 +41,9 @@ sh auto/myBFF.sh
 sh auto/nullinux.sh
 sh auto/pret.sh
 sh auto/pwndbg.sh
-#sh auto/pwntools.sh
+sh auto/pwntools.sh
 sh auto/responder.sh
+sh auto/ropper.sh
 sh auto/routersploit.sh
 sh auto/social-engineering-toolkit.sh
 #sh auto/sparta.sh

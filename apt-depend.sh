@@ -5,7 +5,7 @@
 
 sudo apt update
 
-sudo apt install -y git-all pathogen python-pip python3-pip python3.6 python-pyqt5 python-mysqldb python-psycopg2 python-pymysql libpcap-dev build-essential cmake curl default-jre flex golang hostapd lighttpd libssl1.0-dev nodejs-dev node-gyp npm openjdk-8-jdk openjdk-8-jre samba subversion super terminator tmux virtualenv 
+sudo apt install -y docker.io git-all pathogen python-pip python3-pip python3.6 python-pyqt5 python-mysqldb python-psycopg2 python-pymysql libpcap-dev build-essential cmake curl default-jre flex golang hostapd lighttpd libssl1.0-dev nodejs-dev node-gyp npm openjdk-8-jdk openjdk-8-jre samba subversion super terminator tmux virtualenv 
 
 sudo snap install ruby --classic
 
